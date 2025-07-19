@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Adityaa050/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adityaa050/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Adityaa050/LeetCode/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/Adityaa050/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/Adityaa050/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Adityaa050/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Adityaa050/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adityaa050/LeetCode/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Adityaa050/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Adityaa050/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
