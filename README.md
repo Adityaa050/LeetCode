@@ -58,7 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
-| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,7 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adityaa050/LeetCode/tree/master/0039-combination-sum) |
-| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,12 +133,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Adityaa050/LeetCode/tree/master/0859-design-circular-deque) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
-## Graph
-|  |
-| ------- |
-| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
