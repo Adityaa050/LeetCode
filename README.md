@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Adityaa050/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Adityaa050/LeetCode/tree/master/0048-rotate-image) |
 | [0179-largest-number](https://github.com/Adityaa050/LeetCode/tree/master/0179-largest-number) |
+| [0216-combination-sum-iii](https://github.com/Adityaa050/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Adityaa050/LeetCode/tree/master/0217-contains-duplicate) |
 | [0859-design-circular-deque](https://github.com/Adityaa050/LeetCode/tree/master/0859-design-circular-deque) |
 ## Hash Table
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adityaa050/LeetCode/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/Adityaa050/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
