@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityaa050/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adityaa050/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Adityaa050/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Adityaa050/LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Adityaa050/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adityaa050/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityaa050/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Adityaa050/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Adityaa050/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Adityaa050/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adityaa050/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adityaa050/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Adityaa050/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityaa050/LeetCode/tree/master/0151-reverse-words-in-a-string) |
