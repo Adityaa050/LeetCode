@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adityaa050/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Adityaa050/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/Adityaa050/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Adityaa050/LeetCode/tree/master/0217-contains-duplicate) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Adityaa050/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Sorting
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Adityaa050/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityaa050/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Adityaa050/LeetCode/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Adityaa050/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adityaa050/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Adityaa050/LeetCode/tree/master/0344-reverse-string) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adityaa050/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Adityaa050/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Adityaa050/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0859-design-circular-deque](https://github.com/Adityaa050/LeetCode/tree/master/0859-design-circular-deque) |
 ## Queue
