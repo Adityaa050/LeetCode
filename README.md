@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaa050/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityaa050/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adityaa050/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Adityaa050/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Adityaa050/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Adityaa050/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Adityaa050/LeetCode/tree/master/0048-rotate-image) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adityaa050/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adityaa050/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityaa050/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Adityaa050/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Adityaa050/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaa050/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Adityaa050/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adityaa050/LeetCode/tree/master/0048-rotate-image) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adityaa050/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Stack
