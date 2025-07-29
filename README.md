@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Adityaa050/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Adityaa050/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Adityaa050/LeetCode/tree/master/0048-rotate-image) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Adityaa050/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Adityaa050/LeetCode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Adityaa050/LeetCode/tree/master/0179-largest-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Adityaa050/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Adityaa050/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityaa050/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Adityaa050/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -227,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Adityaa050/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Adityaa050/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
