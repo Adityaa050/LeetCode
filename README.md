@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaa050/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaa050/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaa050/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaa050/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -180,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Adityaa050/LeetCode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adityaa050/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaa050/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Adityaa050/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaa050/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
