@@ -5,4 +5,4 @@ class Solution:
             if num in seen:
                 return num
             seen.add(num)
-        return -1       
+        return 0       
