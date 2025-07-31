@@ -1,11 +1,15 @@
-class Solution:
-    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
- 
-        heap = []
+from bisect import bisect_right
 
-        for row in matrix:
-            heap += [-i for i in row]
-            heapq.heapify(heap)
-            while len(heap) > k:
-                heapq.heappop(heap)
-        return -min(heap)
+class Solution:
+    def kthSmallest(self, matrix: list[list[int]], k: int) -> int:
+        low, high = matrix[0][0], matrix[-1][-1]
+        while low < high:
+            mid = (low + high) // 2
+            cnt = 0
+            for row in matrix:
+                cnt += bisect_right(row, mid)
+            if cnt < k:
+                low = mid + 1
+            else:
+                high = mid
+        return low
