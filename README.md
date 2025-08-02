@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Adityaa050/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Adityaa050/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Adityaa050/LeetCode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Adityaa050/LeetCode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaa050/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adityaa050/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaa050/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adityaa050/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adityaa050/LeetCode/tree/master/0048-rotate-image) |
+| [0221-maximal-square](https://github.com/Adityaa050/LeetCode/tree/master/0221-maximal-square) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adityaa050/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaa050/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Stack
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityaa050/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Adityaa050/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Adityaa050/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Adityaa050/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adityaa050/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaa050/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
