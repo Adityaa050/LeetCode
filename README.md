@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Adityaa050/LeetCode/tree/master/0517-super-washing-machines) |
 | [0859-design-circular-deque](https://github.com/Adityaa050/LeetCode/tree/master/0859-design-circular-deque) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
+| [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Adityaa050/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adityaa050/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adityaa050/LeetCode/tree/master/0242-valid-anagram) |
 | [0491-non-decreasing-subsequences](https://github.com/Adityaa050/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Adityaa050/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Sorting
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
+| [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -274,12 +277,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Adityaa050/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Graph
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
+| [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Adityaa050/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Topological Sort
 |  |
@@ -317,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Adityaa050/LeetCode/tree/master/0415-add-strings) |
+## Union Find
+|  |
+| ------- |
+| [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 <!---LeetCode Topics End-->
