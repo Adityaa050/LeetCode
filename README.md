@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Adityaa050/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Adityaa050/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Adityaa050/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Adityaa050/LeetCode/tree/master/0415-add-strings) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Adityaa050/LeetCode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Array
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adityaa050/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Adityaa050/LeetCode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/Adityaa050/LeetCode/tree/master/0415-add-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityaa050/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Adityaa050/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
