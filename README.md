@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityaa050/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaa050/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaa050/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityaa050/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaa050/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaa050/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityaa050/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adityaa050/LeetCode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaa050/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adityaa050/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Adityaa050/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adityaa050/LeetCode/tree/master/0029-divide-two-integers) |
+| [0222-count-complete-tree-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaa050/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Adityaa050/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
