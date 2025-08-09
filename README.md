@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Adityaa050/LeetCode/tree/master/0436-find-right-interval) |
 | [0491-non-decreasing-subsequences](https://github.com/Adityaa050/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0517-super-washing-machines](https://github.com/Adityaa050/LeetCode/tree/master/0517-super-washing-machines) |
+| [0630-course-schedule-iii](https://github.com/Adityaa050/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0859-design-circular-deque](https://github.com/Adityaa050/LeetCode/tree/master/0859-design-circular-deque) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adityaa050/LeetCode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaa050/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Adityaa050/LeetCode/tree/master/0436-find-right-interval) |
+| [0630-course-schedule-iii](https://github.com/Adityaa050/LeetCode/tree/master/0630-course-schedule-iii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Adityaa050/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Two Pointers
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityaa050/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaa050/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0630-course-schedule-iii](https://github.com/Adityaa050/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaa050/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Adityaa050/LeetCode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Adityaa050/LeetCode/tree/master/0179-largest-number) |
 | [0517-super-washing-machines](https://github.com/Adityaa050/LeetCode/tree/master/0517-super-washing-machines) |
+| [0630-course-schedule-iii](https://github.com/Adityaa050/LeetCode/tree/master/0630-course-schedule-iii) |
 ## Design
 |  |
 | ------- |
