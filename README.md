@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityaa050/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Adityaa050/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaa050/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Adityaa050/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Adityaa050/LeetCode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Adityaa050/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Adityaa050/LeetCode/tree/master/0213-house-robber-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaa050/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityaa050/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Adityaa050/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/Adityaa050/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Adityaa050/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Adityaa050/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adityaa050/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
