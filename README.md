@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityaa050/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Adityaa050/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1300-critical-connections-in-a-network](https://github.com/Adityaa050/LeetCode/tree/master/1300-critical-connections-in-a-network) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Adityaa050/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Adityaa050/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/Adityaa050/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Adityaa050/LeetCode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Adityaa050/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Adityaa050/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adityaa050/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Adityaa050/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Adityaa050/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
