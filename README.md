@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityaa050/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0781-basic-calculator-iv](https://github.com/Adityaa050/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityaa050/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Adityaa050/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaa050/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaa050/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaa050/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Adityaa050/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaa050/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
