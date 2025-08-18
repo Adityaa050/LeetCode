@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Adityaa050/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaa050/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0685-redundant-connection-ii](https://github.com/Adityaa050/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adityaa050/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adityaa050/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Adityaa050/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaa050/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0685-redundant-connection-ii](https://github.com/Adityaa050/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adityaa050/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Adityaa050/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Adityaa050/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0685-redundant-connection-ii](https://github.com/Adityaa050/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adityaa050/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adityaa050/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/Adityaa050/LeetCode/tree/master/0881-loud-and-rich) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Adityaa050/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0964-minimize-malware-spread-ii](https://github.com/Adityaa050/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 ## Biconnected Component
 |  |
