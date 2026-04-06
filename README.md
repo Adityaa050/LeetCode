@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Adityaa050/LeetCode/tree/master/0610-triangle-judgement) |
 | [1148-article-views-i](https://github.com/Adityaa050/LeetCode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/Adityaa050/LeetCode/tree/master/1258-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Adityaa050/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Adityaa050/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Adityaa050/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adityaa050/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
